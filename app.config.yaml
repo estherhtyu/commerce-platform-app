@@ -1,0 +1,16 @@
+application:
+  actions: actions
+  runtimeManifest:
+    packages:
+      commerce-platform-app:
+        license: Apache-2.0
+        actions:
+          commerce-api:
+            function: actions/commerce-api/index.js
+            web: 'yes'
+            runtime: nodejs:22
+            inputs:
+              LOG_LEVEL: debug
+            annotations:
+              require-adobe-auth: true
+              final: true
