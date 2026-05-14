@@ -1,0 +1,5 @@
+sku,name,price,attribute_set_id,category_ids,base_image,gallery_images
+demo-1011,Phone Model X1,501,4,"4|5","https://cdns.crestline.com/crestline/must-have-phone-accessories-and-cool-new-tech-gifts/Hero-Tech-Accessories.jpg?q=100","https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2023/04/best-iphone-accessories.jpg|https://vancell.ca/wp-content/uploads/2020/11/iPhone-Accessories.jpg"
+demo-2011,Phone Protective Case1,21,4,"5","https://vancell.ca/wp-content/uploads/2020/11/iPhone-Accessories.jpg","https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2023/04/best-iphone-accessories.jpg"
+demo-1021,Phone Model y1,51,4,"4|5","https://cdns.crestline.com/crestline/must-have-phone-accessories-and-cool-new-tech-gifts/Hero-Tech-Accessories.jpg?q=100","https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2023/04/best-iphone-accessories.jpg|https://vancell.ca/wp-content/uploads/2020/11/iPhone-Accessories.jpg"
+demo-2021,Phone Protective Case x1,201,4,"5","https://vancell.ca/wp-content/uploads/2020/11/iPhone-Accessories.jpg","https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2023/04/best-iphone-accessories.jpg"
