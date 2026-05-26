@@ -1,0 +1,400 @@
+sku,visibilty,name,website_ids,price,attribute_set_id,category_ids,brand,short_description,description,weight,qty,tier_qty,tier_price,customer_group_id,meta_title,meta_keyword,meta_description,legacy_id
+demo-10112,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X1,Phone Model X1 keyword,Phone Model X1 desc,1234
+demo-10113,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X2,Phone Model X1 keyword,Phone Model X1 desc,1235
+demo-10114,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X3,Phone Model X1 keyword,Phone Model X1 desc,1236
+demo-10115,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X4,Phone Model X1 keyword,Phone Model X1 desc,1237
+demo-10116,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X5,Phone Model X1 keyword,Phone Model X1 desc,1238
+demo-10117,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X6,Phone Model X1 keyword,Phone Model X1 desc,1239
+demo-10118,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X7,Phone Model X1 keyword,Phone Model X1 desc,1240
+demo-10119,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X8,Phone Model X1 keyword,Phone Model X1 desc,1241
+demo-10120,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X9,Phone Model X1 keyword,Phone Model X1 desc,1242
+demo-10121,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X10,Phone Model X1 keyword,Phone Model X1 desc,1243
+demo-10122,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X11,Phone Model X1 keyword,Phone Model X1 desc,1244
+demo-10123,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X12,Phone Model X1 keyword,Phone Model X1 desc,1245
+demo-10124,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X13,Phone Model X1 keyword,Phone Model X1 desc,1246
+demo-10125,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X14,Phone Model X1 keyword,Phone Model X1 desc,1247
+demo-10126,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X15,Phone Model X1 keyword,Phone Model X1 desc,1248
+demo-10127,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X16,Phone Model X1 keyword,Phone Model X1 desc,1249
+demo-10128,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X17,Phone Model X1 keyword,Phone Model X1 desc,1250
+demo-10129,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X18,Phone Model X1 keyword,Phone Model X1 desc,1251
+demo-10130,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X19,Phone Model X1 keyword,Phone Model X1 desc,1252
+demo-10131,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X20,Phone Model X1 keyword,Phone Model X1 desc,1253
+demo-10132,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X21,Phone Model X1 keyword,Phone Model X1 desc,1254
+demo-10133,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X22,Phone Model X1 keyword,Phone Model X1 desc,1255
+demo-10134,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X23,Phone Model X1 keyword,Phone Model X1 desc,1256
+demo-10135,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X24,Phone Model X1 keyword,Phone Model X1 desc,1257
+demo-10136,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X25,Phone Model X1 keyword,Phone Model X1 desc,1258
+demo-10137,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X26,Phone Model X1 keyword,Phone Model X1 desc,1259
+demo-10138,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X27,Phone Model X1 keyword,Phone Model X1 desc,1260
+demo-10139,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X28,Phone Model X1 keyword,Phone Model X1 desc,1261
+demo-10140,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X29,Phone Model X1 keyword,Phone Model X1 desc,1262
+demo-10141,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X30,Phone Model X1 keyword,Phone Model X1 desc,1263
+demo-10142,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X31,Phone Model X1 keyword,Phone Model X1 desc,1264
+demo-10143,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X32,Phone Model X1 keyword,Phone Model X1 desc,1265
+demo-10144,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X33,Phone Model X1 keyword,Phone Model X1 desc,1266
+demo-10145,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X34,Phone Model X1 keyword,Phone Model X1 desc,1267
+demo-10146,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X35,Phone Model X1 keyword,Phone Model X1 desc,1268
+demo-10147,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X36,Phone Model X1 keyword,Phone Model X1 desc,1269
+demo-10148,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X37,Phone Model X1 keyword,Phone Model X1 desc,1270
+demo-10149,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X38,Phone Model X1 keyword,Phone Model X1 desc,1271
+demo-10150,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X39,Phone Model X1 keyword,Phone Model X1 desc,1272
+demo-10151,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X40,Phone Model X1 keyword,Phone Model X1 desc,1273
+demo-10152,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X41,Phone Model X1 keyword,Phone Model X1 desc,1274
+demo-10153,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X42,Phone Model X1 keyword,Phone Model X1 desc,1275
+demo-10154,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X43,Phone Model X1 keyword,Phone Model X1 desc,1276
+demo-10155,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X44,Phone Model X1 keyword,Phone Model X1 desc,1277
+demo-10156,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X45,Phone Model X1 keyword,Phone Model X1 desc,1278
+demo-10157,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X46,Phone Model X1 keyword,Phone Model X1 desc,1279
+demo-10158,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X47,Phone Model X1 keyword,Phone Model X1 desc,1280
+demo-10159,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X48,Phone Model X1 keyword,Phone Model X1 desc,1281
+demo-10160,4,Phone Model X1,1,501,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X49,Phone Model X1 keyword,Phone Model X1 desc,1282
+demo-10161,4,Phone Protective Case1,1,21,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X50,Phone Model X1 keyword,Phone Model X1 desc,1283
+demo-10162,4,Phone Model y1,1,51,4,4|5,brand name,short description,description,0,100,5,10,0,Phone Model X51,Phone Model X1 keyword,Phone Model X1 desc,1284
+demo-10163,4,Phone Protective Case x1,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X52,Phone Model X1 keyword,Phone Model X1 desc,1285
+demo-10164,4,Phone Protective Case x2,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X53,Phone Model X1 keyword,Phone Model X1 desc,1286
+demo-10165,4,Phone Protective Case x3,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X54,Phone Model X1 keyword,Phone Model X1 desc,1287
+demo-10166,4,Phone Protective Case x4,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X55,Phone Model X1 keyword,Phone Model X1 desc,1288
+demo-10167,4,Phone Protective Case x5,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X56,Phone Model X1 keyword,Phone Model X1 desc,1289
+demo-10168,4,Phone Protective Case x6,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X57,Phone Model X1 keyword,Phone Model X1 desc,1290
+demo-10169,4,Phone Protective Case x7,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X58,Phone Model X1 keyword,Phone Model X1 desc,1291
+demo-10170,4,Phone Protective Case x8,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X59,Phone Model X1 keyword,Phone Model X1 desc,1292
+demo-10171,4,Phone Protective Case x9,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X60,Phone Model X1 keyword,Phone Model X1 desc,1293
+demo-10172,4,Phone Protective Case x10,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X61,Phone Model X1 keyword,Phone Model X1 desc,1294
+demo-10173,4,Phone Protective Case x11,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X62,Phone Model X1 keyword,Phone Model X1 desc,1295
+demo-10174,4,Phone Protective Case x12,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X63,Phone Model X1 keyword,Phone Model X1 desc,1296
+demo-10175,4,Phone Protective Case x13,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X64,Phone Model X1 keyword,Phone Model X1 desc,1297
+demo-10176,4,Phone Protective Case x14,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X65,Phone Model X1 keyword,Phone Model X1 desc,1298
+demo-10177,4,Phone Protective Case x15,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X66,Phone Model X1 keyword,Phone Model X1 desc,1299
+demo-10178,4,Phone Protective Case x16,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X67,Phone Model X1 keyword,Phone Model X1 desc,1300
+demo-10179,4,Phone Protective Case x17,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X68,Phone Model X1 keyword,Phone Model X1 desc,1301
+demo-10180,4,Phone Protective Case x18,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X69,Phone Model X1 keyword,Phone Model X1 desc,1302
+demo-10181,4,Phone Protective Case x19,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X70,Phone Model X1 keyword,Phone Model X1 desc,1303
+demo-10182,4,Phone Protective Case x20,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X71,Phone Model X1 keyword,Phone Model X1 desc,1304
+demo-10183,4,Phone Protective Case x21,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X72,Phone Model X1 keyword,Phone Model X1 desc,1305
+demo-10184,4,Phone Protective Case x22,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X73,Phone Model X1 keyword,Phone Model X1 desc,1306
+demo-10185,4,Phone Protective Case x23,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X74,Phone Model X1 keyword,Phone Model X1 desc,1307
+demo-10186,4,Phone Protective Case x24,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X75,Phone Model X1 keyword,Phone Model X1 desc,1308
+demo-10187,4,Phone Protective Case x25,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X76,Phone Model X1 keyword,Phone Model X1 desc,1309
+demo-10188,4,Phone Protective Case x26,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X77,Phone Model X1 keyword,Phone Model X1 desc,1310
+demo-10189,4,Phone Protective Case x27,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X78,Phone Model X1 keyword,Phone Model X1 desc,1311
+demo-10190,4,Phone Protective Case x28,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X79,Phone Model X1 keyword,Phone Model X1 desc,1312
+demo-10191,4,Phone Protective Case x29,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X80,Phone Model X1 keyword,Phone Model X1 desc,1313
+demo-10192,4,Phone Protective Case x30,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X81,Phone Model X1 keyword,Phone Model X1 desc,1314
+demo-10193,4,Phone Protective Case x31,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X82,Phone Model X1 keyword,Phone Model X1 desc,1315
+demo-10194,4,Phone Protective Case x32,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X83,Phone Model X1 keyword,Phone Model X1 desc,1316
+demo-10195,4,Phone Protective Case x33,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X84,Phone Model X1 keyword,Phone Model X1 desc,1317
+demo-10196,4,Phone Protective Case x34,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X85,Phone Model X1 keyword,Phone Model X1 desc,1318
+demo-10197,4,Phone Protective Case x35,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X86,Phone Model X1 keyword,Phone Model X1 desc,1319
+demo-10198,4,Phone Protective Case x36,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X87,Phone Model X1 keyword,Phone Model X1 desc,1320
+demo-10199,4,Phone Protective Case x37,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X88,Phone Model X1 keyword,Phone Model X1 desc,1321
+demo-10200,4,Phone Protective Case x38,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X89,Phone Model X1 keyword,Phone Model X1 desc,1322
+demo-10201,4,Phone Protective Case x39,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X90,Phone Model X1 keyword,Phone Model X1 desc,1323
+demo-10202,4,Phone Protective Case x40,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X91,Phone Model X1 keyword,Phone Model X1 desc,1324
+demo-10203,4,Phone Protective Case x41,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X92,Phone Model X1 keyword,Phone Model X1 desc,1325
+demo-10204,4,Phone Protective Case x42,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X93,Phone Model X1 keyword,Phone Model X1 desc,1326
+demo-10205,4,Phone Protective Case x43,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X94,Phone Model X1 keyword,Phone Model X1 desc,1327
+demo-10206,4,Phone Protective Case x44,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X95,Phone Model X1 keyword,Phone Model X1 desc,1328
+demo-10207,4,Phone Protective Case x45,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X96,Phone Model X1 keyword,Phone Model X1 desc,1329
+demo-10208,4,Phone Protective Case x46,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X97,Phone Model X1 keyword,Phone Model X1 desc,1330
+demo-10209,4,Phone Protective Case x47,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X98,Phone Model X1 keyword,Phone Model X1 desc,1331
+demo-10210,4,Phone Protective Case x48,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X99,Phone Model X1 keyword,Phone Model X1 desc,1332
+demo-10211,4,Phone Protective Case x49,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X100,Phone Model X1 keyword,Phone Model X1 desc,1333
+demo-10212,4,Phone Protective Case x50,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X101,Phone Model X1 keyword,Phone Model X1 desc,1334
+demo-10213,4,Phone Protective Case x51,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X102,Phone Model X1 keyword,Phone Model X1 desc,1335
+demo-10214,4,Phone Protective Case x52,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X103,Phone Model X1 keyword,Phone Model X1 desc,1336
+demo-10215,4,Phone Protective Case x53,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X104,Phone Model X1 keyword,Phone Model X1 desc,1337
+demo-10216,4,Phone Protective Case x54,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X105,Phone Model X1 keyword,Phone Model X1 desc,1338
+demo-10217,4,Phone Protective Case x55,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X106,Phone Model X1 keyword,Phone Model X1 desc,1339
+demo-10218,4,Phone Protective Case x56,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X107,Phone Model X1 keyword,Phone Model X1 desc,1340
+demo-10219,4,Phone Protective Case x57,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X108,Phone Model X1 keyword,Phone Model X1 desc,1341
+demo-10220,4,Phone Protective Case x58,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X109,Phone Model X1 keyword,Phone Model X1 desc,1342
+demo-10221,4,Phone Protective Case x59,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X110,Phone Model X1 keyword,Phone Model X1 desc,1343
+demo-10222,4,Phone Protective Case x60,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X111,Phone Model X1 keyword,Phone Model X1 desc,1344
+demo-10223,4,Phone Protective Case x61,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X112,Phone Model X1 keyword,Phone Model X1 desc,1345
+demo-10224,4,Phone Protective Case x62,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X113,Phone Model X1 keyword,Phone Model X1 desc,1346
+demo-10225,4,Phone Protective Case x63,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X114,Phone Model X1 keyword,Phone Model X1 desc,1347
+demo-10226,4,Phone Protective Case x64,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X115,Phone Model X1 keyword,Phone Model X1 desc,1348
+demo-10227,4,Phone Protective Case x65,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X116,Phone Model X1 keyword,Phone Model X1 desc,1349
+demo-10228,4,Phone Protective Case x66,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X117,Phone Model X1 keyword,Phone Model X1 desc,1350
+demo-10229,4,Phone Protective Case x67,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X118,Phone Model X1 keyword,Phone Model X1 desc,1351
+demo-10230,4,Phone Protective Case x68,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X119,Phone Model X1 keyword,Phone Model X1 desc,1352
+demo-10231,4,Phone Protective Case x69,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X120,Phone Model X1 keyword,Phone Model X1 desc,1353
+demo-10232,4,Phone Protective Case x70,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X121,Phone Model X1 keyword,Phone Model X1 desc,1354
+demo-10233,4,Phone Protective Case x71,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X122,Phone Model X1 keyword,Phone Model X1 desc,1355
+demo-10234,4,Phone Protective Case x72,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X123,Phone Model X1 keyword,Phone Model X1 desc,1356
+demo-10235,4,Phone Protective Case x73,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X124,Phone Model X1 keyword,Phone Model X1 desc,1357
+demo-10236,4,Phone Protective Case x74,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X125,Phone Model X1 keyword,Phone Model X1 desc,1358
+demo-10237,4,Phone Protective Case x75,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X126,Phone Model X1 keyword,Phone Model X1 desc,1359
+demo-10238,4,Phone Protective Case x76,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X127,Phone Model X1 keyword,Phone Model X1 desc,1360
+demo-10239,4,Phone Protective Case x77,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X128,Phone Model X1 keyword,Phone Model X1 desc,1361
+demo-10240,4,Phone Protective Case x78,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X129,Phone Model X1 keyword,Phone Model X1 desc,1362
+demo-10241,4,Phone Protective Case x79,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X130,Phone Model X1 keyword,Phone Model X1 desc,1363
+demo-10242,4,Phone Protective Case x80,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X131,Phone Model X1 keyword,Phone Model X1 desc,1364
+demo-10243,4,Phone Protective Case x81,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X132,Phone Model X1 keyword,Phone Model X1 desc,1365
+demo-10244,4,Phone Protective Case x82,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X133,Phone Model X1 keyword,Phone Model X1 desc,1366
+demo-10245,4,Phone Protective Case x83,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X134,Phone Model X1 keyword,Phone Model X1 desc,1367
+demo-10246,4,Phone Protective Case x84,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X135,Phone Model X1 keyword,Phone Model X1 desc,1368
+demo-10247,4,Phone Protective Case x85,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X136,Phone Model X1 keyword,Phone Model X1 desc,1369
+demo-10248,4,Phone Protective Case x86,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X137,Phone Model X1 keyword,Phone Model X1 desc,1370
+demo-10249,4,Phone Protective Case x87,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X138,Phone Model X1 keyword,Phone Model X1 desc,1371
+demo-10250,4,Phone Protective Case x88,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X139,Phone Model X1 keyword,Phone Model X1 desc,1372
+demo-10251,4,Phone Protective Case x89,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X140,Phone Model X1 keyword,Phone Model X1 desc,1373
+demo-10252,4,Phone Protective Case x90,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X141,Phone Model X1 keyword,Phone Model X1 desc,1374
+demo-10253,4,Phone Protective Case x91,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X142,Phone Model X1 keyword,Phone Model X1 desc,1375
+demo-10254,4,Phone Protective Case x92,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X143,Phone Model X1 keyword,Phone Model X1 desc,1376
+demo-10255,4,Phone Protective Case x93,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X144,Phone Model X1 keyword,Phone Model X1 desc,1377
+demo-10256,4,Phone Protective Case x94,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X145,Phone Model X1 keyword,Phone Model X1 desc,1378
+demo-10257,4,Phone Protective Case x95,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X146,Phone Model X1 keyword,Phone Model X1 desc,1379
+demo-10258,4,Phone Protective Case x96,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X147,Phone Model X1 keyword,Phone Model X1 desc,1380
+demo-10259,4,Phone Protective Case x97,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X148,Phone Model X1 keyword,Phone Model X1 desc,1381
+demo-10260,4,Phone Protective Case x98,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X149,Phone Model X1 keyword,Phone Model X1 desc,1382
+demo-10261,4,Phone Protective Case x99,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X150,Phone Model X1 keyword,Phone Model X1 desc,1383
+demo-10262,4,Phone Protective Case x100,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X151,Phone Model X1 keyword,Phone Model X1 desc,1384
+demo-10263,4,Phone Protective Case x101,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X152,Phone Model X1 keyword,Phone Model X1 desc,1385
+demo-10264,4,Phone Protective Case x102,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X153,Phone Model X1 keyword,Phone Model X1 desc,1386
+demo-10265,4,Phone Protective Case x103,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X154,Phone Model X1 keyword,Phone Model X1 desc,1387
+demo-10266,4,Phone Protective Case x104,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X155,Phone Model X1 keyword,Phone Model X1 desc,1388
+demo-10267,4,Phone Protective Case x105,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X156,Phone Model X1 keyword,Phone Model X1 desc,1389
+demo-10268,4,Phone Protective Case x106,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X157,Phone Model X1 keyword,Phone Model X1 desc,1390
+demo-10269,4,Phone Protective Case x107,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X158,Phone Model X1 keyword,Phone Model X1 desc,1391
+demo-10270,4,Phone Protective Case x108,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X159,Phone Model X1 keyword,Phone Model X1 desc,1392
+demo-10271,4,Phone Protective Case x109,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X160,Phone Model X1 keyword,Phone Model X1 desc,1393
+demo-10272,4,Phone Protective Case x110,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X161,Phone Model X1 keyword,Phone Model X1 desc,1394
+demo-10273,4,Phone Protective Case x111,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X162,Phone Model X1 keyword,Phone Model X1 desc,1395
+demo-10274,4,Phone Protective Case x112,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X163,Phone Model X1 keyword,Phone Model X1 desc,1396
+demo-10275,4,Phone Protective Case x113,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X164,Phone Model X1 keyword,Phone Model X1 desc,1397
+demo-10276,4,Phone Protective Case x114,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X165,Phone Model X1 keyword,Phone Model X1 desc,1398
+demo-10277,4,Phone Protective Case x115,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X166,Phone Model X1 keyword,Phone Model X1 desc,1399
+demo-10278,4,Phone Protective Case x116,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X167,Phone Model X1 keyword,Phone Model X1 desc,1400
+demo-10279,4,Phone Protective Case x117,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X168,Phone Model X1 keyword,Phone Model X1 desc,1401
+demo-10280,4,Phone Protective Case x118,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X169,Phone Model X1 keyword,Phone Model X1 desc,1402
+demo-10281,4,Phone Protective Case x119,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X170,Phone Model X1 keyword,Phone Model X1 desc,1403
+demo-10282,4,Phone Protective Case x120,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X171,Phone Model X1 keyword,Phone Model X1 desc,1404
+demo-10283,4,Phone Protective Case x121,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X172,Phone Model X1 keyword,Phone Model X1 desc,1405
+demo-10284,4,Phone Protective Case x122,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X173,Phone Model X1 keyword,Phone Model X1 desc,1406
+demo-10285,4,Phone Protective Case x123,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X174,Phone Model X1 keyword,Phone Model X1 desc,1407
+demo-10286,4,Phone Protective Case x124,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X175,Phone Model X1 keyword,Phone Model X1 desc,1408
+demo-10287,4,Phone Protective Case x125,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X176,Phone Model X1 keyword,Phone Model X1 desc,1409
+demo-10288,4,Phone Protective Case x126,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X177,Phone Model X1 keyword,Phone Model X1 desc,1410
+demo-10289,4,Phone Protective Case x127,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X178,Phone Model X1 keyword,Phone Model X1 desc,1411
+demo-10290,4,Phone Protective Case x128,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X179,Phone Model X1 keyword,Phone Model X1 desc,1412
+demo-10291,4,Phone Protective Case x129,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X180,Phone Model X1 keyword,Phone Model X1 desc,1413
+demo-10292,4,Phone Protective Case x130,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X181,Phone Model X1 keyword,Phone Model X1 desc,1414
+demo-10293,4,Phone Protective Case x131,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X182,Phone Model X1 keyword,Phone Model X1 desc,1415
+demo-10294,4,Phone Protective Case x132,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X183,Phone Model X1 keyword,Phone Model X1 desc,1416
+demo-10295,4,Phone Protective Case x133,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X184,Phone Model X1 keyword,Phone Model X1 desc,1417
+demo-10296,4,Phone Protective Case x134,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X185,Phone Model X1 keyword,Phone Model X1 desc,1418
+demo-10297,4,Phone Protective Case x135,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X186,Phone Model X1 keyword,Phone Model X1 desc,1419
+demo-10298,4,Phone Protective Case x136,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X187,Phone Model X1 keyword,Phone Model X1 desc,1420
+demo-10299,4,Phone Protective Case x137,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X188,Phone Model X1 keyword,Phone Model X1 desc,1421
+demo-10300,4,Phone Protective Case x138,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X189,Phone Model X1 keyword,Phone Model X1 desc,1422
+demo-10301,4,Phone Protective Case x139,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X190,Phone Model X1 keyword,Phone Model X1 desc,1423
+demo-10302,4,Phone Protective Case x140,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X191,Phone Model X1 keyword,Phone Model X1 desc,1424
+demo-10303,4,Phone Protective Case x141,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X192,Phone Model X1 keyword,Phone Model X1 desc,1425
+demo-10304,4,Phone Protective Case x142,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X193,Phone Model X1 keyword,Phone Model X1 desc,1426
+demo-10305,4,Phone Protective Case x143,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X194,Phone Model X1 keyword,Phone Model X1 desc,1427
+demo-10306,4,Phone Protective Case x144,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X195,Phone Model X1 keyword,Phone Model X1 desc,1428
+demo-10307,4,Phone Protective Case x145,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X196,Phone Model X1 keyword,Phone Model X1 desc,1429
+demo-10308,4,Phone Protective Case x146,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X197,Phone Model X1 keyword,Phone Model X1 desc,1430
+demo-10309,4,Phone Protective Case x147,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X198,Phone Model X1 keyword,Phone Model X1 desc,1431
+demo-10310,4,Phone Protective Case x148,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X199,Phone Model X1 keyword,Phone Model X1 desc,1432
+demo-10311,4,Phone Protective Case x149,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X200,Phone Model X1 keyword,Phone Model X1 desc,1433
+demo-10312,4,Phone Protective Case x150,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X201,Phone Model X1 keyword,Phone Model X1 desc,1434
+demo-10313,4,Phone Protective Case x151,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X202,Phone Model X1 keyword,Phone Model X1 desc,1435
+demo-10314,4,Phone Protective Case x152,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X203,Phone Model X1 keyword,Phone Model X1 desc,1436
+demo-10315,4,Phone Protective Case x153,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X204,Phone Model X1 keyword,Phone Model X1 desc,1437
+demo-10316,4,Phone Protective Case x154,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X205,Phone Model X1 keyword,Phone Model X1 desc,1438
+demo-10317,4,Phone Protective Case x155,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X206,Phone Model X1 keyword,Phone Model X1 desc,1439
+demo-10318,4,Phone Protective Case x156,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X207,Phone Model X1 keyword,Phone Model X1 desc,1440
+demo-10319,4,Phone Protective Case x157,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X208,Phone Model X1 keyword,Phone Model X1 desc,1441
+demo-10320,4,Phone Protective Case x158,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X209,Phone Model X1 keyword,Phone Model X1 desc,1442
+demo-10321,4,Phone Protective Case x159,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X210,Phone Model X1 keyword,Phone Model X1 desc,1443
+demo-10322,4,Phone Protective Case x160,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X211,Phone Model X1 keyword,Phone Model X1 desc,1444
+demo-10323,4,Phone Protective Case x161,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X212,Phone Model X1 keyword,Phone Model X1 desc,1445
+demo-10324,4,Phone Protective Case x162,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X213,Phone Model X1 keyword,Phone Model X1 desc,1446
+demo-10325,4,Phone Protective Case x163,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X214,Phone Model X1 keyword,Phone Model X1 desc,1447
+demo-10326,4,Phone Protective Case x164,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X215,Phone Model X1 keyword,Phone Model X1 desc,1448
+demo-10327,4,Phone Protective Case x165,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X216,Phone Model X1 keyword,Phone Model X1 desc,1449
+demo-10328,4,Phone Protective Case x166,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X217,Phone Model X1 keyword,Phone Model X1 desc,1450
+demo-10329,4,Phone Protective Case x167,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X218,Phone Model X1 keyword,Phone Model X1 desc,1451
+demo-10330,4,Phone Protective Case x168,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X219,Phone Model X1 keyword,Phone Model X1 desc,1452
+demo-10331,4,Phone Protective Case x169,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X220,Phone Model X1 keyword,Phone Model X1 desc,1453
+demo-10332,4,Phone Protective Case x170,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X221,Phone Model X1 keyword,Phone Model X1 desc,1454
+demo-10333,4,Phone Protective Case x171,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X222,Phone Model X1 keyword,Phone Model X1 desc,1455
+demo-10334,4,Phone Protective Case x172,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X223,Phone Model X1 keyword,Phone Model X1 desc,1456
+demo-10335,4,Phone Protective Case x173,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X224,Phone Model X1 keyword,Phone Model X1 desc,1457
+demo-10336,4,Phone Protective Case x174,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X225,Phone Model X1 keyword,Phone Model X1 desc,1458
+demo-10337,4,Phone Protective Case x175,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X226,Phone Model X1 keyword,Phone Model X1 desc,1459
+demo-10338,4,Phone Protective Case x176,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X227,Phone Model X1 keyword,Phone Model X1 desc,1460
+demo-10339,4,Phone Protective Case x177,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X228,Phone Model X1 keyword,Phone Model X1 desc,1461
+demo-10340,4,Phone Protective Case x178,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X229,Phone Model X1 keyword,Phone Model X1 desc,1462
+demo-10341,4,Phone Protective Case x179,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X230,Phone Model X1 keyword,Phone Model X1 desc,1463
+demo-10342,4,Phone Protective Case x180,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X231,Phone Model X1 keyword,Phone Model X1 desc,1464
+demo-10343,4,Phone Protective Case x181,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X232,Phone Model X1 keyword,Phone Model X1 desc,1465
+demo-10344,4,Phone Protective Case x182,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X233,Phone Model X1 keyword,Phone Model X1 desc,1466
+demo-10345,4,Phone Protective Case x183,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X234,Phone Model X1 keyword,Phone Model X1 desc,1467
+demo-10346,4,Phone Protective Case x184,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X235,Phone Model X1 keyword,Phone Model X1 desc,1468
+demo-10347,4,Phone Protective Case x185,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X236,Phone Model X1 keyword,Phone Model X1 desc,1469
+demo-10348,4,Phone Protective Case x186,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X237,Phone Model X1 keyword,Phone Model X1 desc,1470
+demo-10349,4,Phone Protective Case x187,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X238,Phone Model X1 keyword,Phone Model X1 desc,1471
+demo-10350,4,Phone Protective Case x188,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X239,Phone Model X1 keyword,Phone Model X1 desc,1472
+demo-10351,4,Phone Protective Case x189,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X240,Phone Model X1 keyword,Phone Model X1 desc,1473
+demo-10352,4,Phone Protective Case x190,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X241,Phone Model X1 keyword,Phone Model X1 desc,1474
+demo-10353,4,Phone Protective Case x191,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X242,Phone Model X1 keyword,Phone Model X1 desc,1475
+demo-10354,4,Phone Protective Case x192,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X243,Phone Model X1 keyword,Phone Model X1 desc,1476
+demo-10355,4,Phone Protective Case x193,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X244,Phone Model X1 keyword,Phone Model X1 desc,1477
+demo-10356,4,Phone Protective Case x194,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X245,Phone Model X1 keyword,Phone Model X1 desc,1478
+demo-10357,4,Phone Protective Case x195,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X246,Phone Model X1 keyword,Phone Model X1 desc,1479
+demo-10358,4,Phone Protective Case x196,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X247,Phone Model X1 keyword,Phone Model X1 desc,1480
+demo-10359,4,Phone Protective Case x197,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X248,Phone Model X1 keyword,Phone Model X1 desc,1481
+demo-10360,4,Phone Protective Case x198,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X249,Phone Model X1 keyword,Phone Model X1 desc,1482
+demo-10361,4,Phone Protective Case x199,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X250,Phone Model X1 keyword,Phone Model X1 desc,1483
+demo-10362,4,Phone Protective Case x200,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X251,Phone Model X1 keyword,Phone Model X1 desc,1484
+demo-10363,4,Phone Protective Case x201,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X252,Phone Model X1 keyword,Phone Model X1 desc,1485
+demo-10364,4,Phone Protective Case x202,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X253,Phone Model X1 keyword,Phone Model X1 desc,1486
+demo-10365,4,Phone Protective Case x203,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X254,Phone Model X1 keyword,Phone Model X1 desc,1487
+demo-10366,4,Phone Protective Case x204,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X255,Phone Model X1 keyword,Phone Model X1 desc,1488
+demo-10367,4,Phone Protective Case x205,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X256,Phone Model X1 keyword,Phone Model X1 desc,1489
+demo-10368,4,Phone Protective Case x206,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X257,Phone Model X1 keyword,Phone Model X1 desc,1490
+demo-10369,4,Phone Protective Case x207,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X258,Phone Model X1 keyword,Phone Model X1 desc,1491
+demo-10370,4,Phone Protective Case x208,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X259,Phone Model X1 keyword,Phone Model X1 desc,1492
+demo-10371,4,Phone Protective Case x209,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X260,Phone Model X1 keyword,Phone Model X1 desc,1493
+demo-10372,4,Phone Protective Case x210,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X261,Phone Model X1 keyword,Phone Model X1 desc,1494
+demo-10373,4,Phone Protective Case x211,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X262,Phone Model X1 keyword,Phone Model X1 desc,1495
+demo-10374,4,Phone Protective Case x212,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X263,Phone Model X1 keyword,Phone Model X1 desc,1496
+demo-10375,4,Phone Protective Case x213,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X264,Phone Model X1 keyword,Phone Model X1 desc,1497
+demo-10376,4,Phone Protective Case x214,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X265,Phone Model X1 keyword,Phone Model X1 desc,1498
+demo-10377,4,Phone Protective Case x215,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X266,Phone Model X1 keyword,Phone Model X1 desc,1499
+demo-10378,4,Phone Protective Case x216,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X267,Phone Model X1 keyword,Phone Model X1 desc,1500
+demo-10379,4,Phone Protective Case x217,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X268,Phone Model X1 keyword,Phone Model X1 desc,1501
+demo-10380,4,Phone Protective Case x218,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X269,Phone Model X1 keyword,Phone Model X1 desc,1502
+demo-10381,4,Phone Protective Case x219,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X270,Phone Model X1 keyword,Phone Model X1 desc,1503
+demo-10382,4,Phone Protective Case x220,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X271,Phone Model X1 keyword,Phone Model X1 desc,1504
+demo-10383,4,Phone Protective Case x221,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X272,Phone Model X1 keyword,Phone Model X1 desc,1505
+demo-10384,4,Phone Protective Case x222,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X273,Phone Model X1 keyword,Phone Model X1 desc,1506
+demo-10385,4,Phone Protective Case x223,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X274,Phone Model X1 keyword,Phone Model X1 desc,1507
+demo-10386,4,Phone Protective Case x224,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X275,Phone Model X1 keyword,Phone Model X1 desc,1508
+demo-10387,4,Phone Protective Case x225,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X276,Phone Model X1 keyword,Phone Model X1 desc,1509
+demo-10388,4,Phone Protective Case x226,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X277,Phone Model X1 keyword,Phone Model X1 desc,1510
+demo-10389,4,Phone Protective Case x227,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X278,Phone Model X1 keyword,Phone Model X1 desc,1511
+demo-10390,4,Phone Protective Case x228,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X279,Phone Model X1 keyword,Phone Model X1 desc,1512
+demo-10391,4,Phone Protective Case x229,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X280,Phone Model X1 keyword,Phone Model X1 desc,1513
+demo-10392,4,Phone Protective Case x230,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X281,Phone Model X1 keyword,Phone Model X1 desc,1514
+demo-10393,4,Phone Protective Case x231,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X282,Phone Model X1 keyword,Phone Model X1 desc,1515
+demo-10394,4,Phone Protective Case x232,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X283,Phone Model X1 keyword,Phone Model X1 desc,1516
+demo-10395,4,Phone Protective Case x233,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X284,Phone Model X1 keyword,Phone Model X1 desc,1517
+demo-10396,4,Phone Protective Case x234,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X285,Phone Model X1 keyword,Phone Model X1 desc,1518
+demo-10397,4,Phone Protective Case x235,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X286,Phone Model X1 keyword,Phone Model X1 desc,1519
+demo-10398,4,Phone Protective Case x236,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X287,Phone Model X1 keyword,Phone Model X1 desc,1520
+demo-10399,4,Phone Protective Case x237,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X288,Phone Model X1 keyword,Phone Model X1 desc,1521
+demo-10400,4,Phone Protective Case x238,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X289,Phone Model X1 keyword,Phone Model X1 desc,1522
+demo-10401,4,Phone Protective Case x239,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X290,Phone Model X1 keyword,Phone Model X1 desc,1523
+demo-10402,4,Phone Protective Case x240,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X291,Phone Model X1 keyword,Phone Model X1 desc,1524
+demo-10403,4,Phone Protective Case x241,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X292,Phone Model X1 keyword,Phone Model X1 desc,1525
+demo-10404,4,Phone Protective Case x242,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X293,Phone Model X1 keyword,Phone Model X1 desc,1526
+demo-10405,4,Phone Protective Case x243,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X294,Phone Model X1 keyword,Phone Model X1 desc,1527
+demo-10406,4,Phone Protective Case x244,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X295,Phone Model X1 keyword,Phone Model X1 desc,1528
+demo-10407,4,Phone Protective Case x245,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X296,Phone Model X1 keyword,Phone Model X1 desc,1529
+demo-10408,4,Phone Protective Case x246,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X297,Phone Model X1 keyword,Phone Model X1 desc,1530
+demo-10409,4,Phone Protective Case x247,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X298,Phone Model X1 keyword,Phone Model X1 desc,1531
+demo-10410,4,Phone Protective Case x248,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X299,Phone Model X1 keyword,Phone Model X1 desc,1532
+demo-10411,4,Phone Protective Case x249,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X300,Phone Model X1 keyword,Phone Model X1 desc,1533
+demo-10412,4,Phone Protective Case x250,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X301,Phone Model X1 keyword,Phone Model X1 desc,1534
+demo-10413,4,Phone Protective Case x251,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X302,Phone Model X1 keyword,Phone Model X1 desc,1535
+demo-10414,4,Phone Protective Case x252,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X303,Phone Model X1 keyword,Phone Model X1 desc,1536
+demo-10415,4,Phone Protective Case x253,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X304,Phone Model X1 keyword,Phone Model X1 desc,1537
+demo-10416,4,Phone Protective Case x254,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X305,Phone Model X1 keyword,Phone Model X1 desc,1538
+demo-10417,4,Phone Protective Case x255,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X306,Phone Model X1 keyword,Phone Model X1 desc,1539
+demo-10418,4,Phone Protective Case x256,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X307,Phone Model X1 keyword,Phone Model X1 desc,1540
+demo-10419,4,Phone Protective Case x257,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X308,Phone Model X1 keyword,Phone Model X1 desc,1541
+demo-10420,4,Phone Protective Case x258,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X309,Phone Model X1 keyword,Phone Model X1 desc,1542
+demo-10421,4,Phone Protective Case x259,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X310,Phone Model X1 keyword,Phone Model X1 desc,1543
+demo-10422,4,Phone Protective Case x260,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X311,Phone Model X1 keyword,Phone Model X1 desc,1544
+demo-10423,4,Phone Protective Case x261,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X312,Phone Model X1 keyword,Phone Model X1 desc,1545
+demo-10424,4,Phone Protective Case x262,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X313,Phone Model X1 keyword,Phone Model X1 desc,1546
+demo-10425,4,Phone Protective Case x263,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X314,Phone Model X1 keyword,Phone Model X1 desc,1547
+demo-10426,4,Phone Protective Case x264,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X315,Phone Model X1 keyword,Phone Model X1 desc,1548
+demo-10427,4,Phone Protective Case x265,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X316,Phone Model X1 keyword,Phone Model X1 desc,1549
+demo-10428,4,Phone Protective Case x266,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X317,Phone Model X1 keyword,Phone Model X1 desc,1550
+demo-10429,4,Phone Protective Case x267,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X318,Phone Model X1 keyword,Phone Model X1 desc,1551
+demo-10430,4,Phone Protective Case x268,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X319,Phone Model X1 keyword,Phone Model X1 desc,1552
+demo-10431,4,Phone Protective Case x269,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X320,Phone Model X1 keyword,Phone Model X1 desc,1553
+demo-10432,4,Phone Protective Case x270,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X321,Phone Model X1 keyword,Phone Model X1 desc,1554
+demo-10433,4,Phone Protective Case x271,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X322,Phone Model X1 keyword,Phone Model X1 desc,1555
+demo-10434,4,Phone Protective Case x272,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X323,Phone Model X1 keyword,Phone Model X1 desc,1556
+demo-10435,4,Phone Protective Case x273,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X324,Phone Model X1 keyword,Phone Model X1 desc,1557
+demo-10436,4,Phone Protective Case x274,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X325,Phone Model X1 keyword,Phone Model X1 desc,1558
+demo-10437,4,Phone Protective Case x275,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X326,Phone Model X1 keyword,Phone Model X1 desc,1559
+demo-10438,4,Phone Protective Case x276,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X327,Phone Model X1 keyword,Phone Model X1 desc,1560
+demo-10439,4,Phone Protective Case x277,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X328,Phone Model X1 keyword,Phone Model X1 desc,1561
+demo-10440,4,Phone Protective Case x278,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X329,Phone Model X1 keyword,Phone Model X1 desc,1562
+demo-10441,4,Phone Protective Case x279,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X330,Phone Model X1 keyword,Phone Model X1 desc,1563
+demo-10442,4,Phone Protective Case x280,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X331,Phone Model X1 keyword,Phone Model X1 desc,1564
+demo-10443,4,Phone Protective Case x281,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X332,Phone Model X1 keyword,Phone Model X1 desc,1565
+demo-10444,4,Phone Protective Case x282,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X333,Phone Model X1 keyword,Phone Model X1 desc,1566
+demo-10445,4,Phone Protective Case x283,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X334,Phone Model X1 keyword,Phone Model X1 desc,1567
+demo-10446,4,Phone Protective Case x284,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X335,Phone Model X1 keyword,Phone Model X1 desc,1568
+demo-10447,4,Phone Protective Case x285,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X336,Phone Model X1 keyword,Phone Model X1 desc,1569
+demo-10448,4,Phone Protective Case x286,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X337,Phone Model X1 keyword,Phone Model X1 desc,1570
+demo-10449,4,Phone Protective Case x287,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X338,Phone Model X1 keyword,Phone Model X1 desc,1571
+demo-10450,4,Phone Protective Case x288,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X339,Phone Model X1 keyword,Phone Model X1 desc,1572
+demo-10451,4,Phone Protective Case x289,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X340,Phone Model X1 keyword,Phone Model X1 desc,1573
+demo-10452,4,Phone Protective Case x290,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X341,Phone Model X1 keyword,Phone Model X1 desc,1574
+demo-10453,4,Phone Protective Case x291,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X342,Phone Model X1 keyword,Phone Model X1 desc,1575
+demo-10454,4,Phone Protective Case x292,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X343,Phone Model X1 keyword,Phone Model X1 desc,1576
+demo-10455,4,Phone Protective Case x293,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X344,Phone Model X1 keyword,Phone Model X1 desc,1577
+demo-10456,4,Phone Protective Case x294,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X345,Phone Model X1 keyword,Phone Model X1 desc,1578
+demo-10457,4,Phone Protective Case x295,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X346,Phone Model X1 keyword,Phone Model X1 desc,1579
+demo-10458,4,Phone Protective Case x296,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X347,Phone Model X1 keyword,Phone Model X1 desc,1580
+demo-10459,4,Phone Protective Case x297,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X348,Phone Model X1 keyword,Phone Model X1 desc,1581
+demo-10460,4,Phone Protective Case x298,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X349,Phone Model X1 keyword,Phone Model X1 desc,1582
+demo-10461,4,Phone Protective Case x299,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X350,Phone Model X1 keyword,Phone Model X1 desc,1583
+demo-10462,4,Phone Protective Case x300,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X351,Phone Model X1 keyword,Phone Model X1 desc,1584
+demo-10463,4,Phone Protective Case x301,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X352,Phone Model X1 keyword,Phone Model X1 desc,1585
+demo-10464,4,Phone Protective Case x302,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X353,Phone Model X1 keyword,Phone Model X1 desc,1586
+demo-10465,4,Phone Protective Case x303,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X354,Phone Model X1 keyword,Phone Model X1 desc,1587
+demo-10466,4,Phone Protective Case x304,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X355,Phone Model X1 keyword,Phone Model X1 desc,1588
+demo-10467,4,Phone Protective Case x305,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X356,Phone Model X1 keyword,Phone Model X1 desc,1589
+demo-10468,4,Phone Protective Case x306,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X357,Phone Model X1 keyword,Phone Model X1 desc,1590
+demo-10469,4,Phone Protective Case x307,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X358,Phone Model X1 keyword,Phone Model X1 desc,1591
+demo-10470,4,Phone Protective Case x308,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X359,Phone Model X1 keyword,Phone Model X1 desc,1592
+demo-10471,4,Phone Protective Case x309,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X360,Phone Model X1 keyword,Phone Model X1 desc,1593
+demo-10472,4,Phone Protective Case x310,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X361,Phone Model X1 keyword,Phone Model X1 desc,1594
+demo-10473,4,Phone Protective Case x311,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X362,Phone Model X1 keyword,Phone Model X1 desc,1595
+demo-10474,4,Phone Protective Case x312,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X363,Phone Model X1 keyword,Phone Model X1 desc,1596
+demo-10475,4,Phone Protective Case x313,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X364,Phone Model X1 keyword,Phone Model X1 desc,1597
+demo-10476,4,Phone Protective Case x314,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X365,Phone Model X1 keyword,Phone Model X1 desc,1598
+demo-10477,4,Phone Protective Case x315,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X366,Phone Model X1 keyword,Phone Model X1 desc,1599
+demo-10478,4,Phone Protective Case x316,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X367,Phone Model X1 keyword,Phone Model X1 desc,1600
+demo-10479,4,Phone Protective Case x317,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X368,Phone Model X1 keyword,Phone Model X1 desc,1601
+demo-10480,4,Phone Protective Case x318,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X369,Phone Model X1 keyword,Phone Model X1 desc,1602
+demo-10481,4,Phone Protective Case x319,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X370,Phone Model X1 keyword,Phone Model X1 desc,1603
+demo-10482,4,Phone Protective Case x320,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X371,Phone Model X1 keyword,Phone Model X1 desc,1604
+demo-10483,4,Phone Protective Case x321,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X372,Phone Model X1 keyword,Phone Model X1 desc,1605
+demo-10484,4,Phone Protective Case x322,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X373,Phone Model X1 keyword,Phone Model X1 desc,1606
+demo-10485,4,Phone Protective Case x323,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X374,Phone Model X1 keyword,Phone Model X1 desc,1607
+demo-10486,4,Phone Protective Case x324,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X375,Phone Model X1 keyword,Phone Model X1 desc,1608
+demo-10487,4,Phone Protective Case x325,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X376,Phone Model X1 keyword,Phone Model X1 desc,1609
+demo-10488,4,Phone Protective Case x326,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X377,Phone Model X1 keyword,Phone Model X1 desc,1610
+demo-10489,4,Phone Protective Case x327,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X378,Phone Model X1 keyword,Phone Model X1 desc,1611
+demo-10490,4,Phone Protective Case x328,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X379,Phone Model X1 keyword,Phone Model X1 desc,1612
+demo-10491,4,Phone Protective Case x329,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X380,Phone Model X1 keyword,Phone Model X1 desc,1613
+demo-10492,4,Phone Protective Case x330,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X381,Phone Model X1 keyword,Phone Model X1 desc,1614
+demo-10493,4,Phone Protective Case x331,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X382,Phone Model X1 keyword,Phone Model X1 desc,1615
+demo-10494,4,Phone Protective Case x332,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X383,Phone Model X1 keyword,Phone Model X1 desc,1616
+demo-10495,4,Phone Protective Case x333,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X384,Phone Model X1 keyword,Phone Model X1 desc,1617
+demo-10496,4,Phone Protective Case x334,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X385,Phone Model X1 keyword,Phone Model X1 desc,1618
+demo-10497,4,Phone Protective Case x335,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X386,Phone Model X1 keyword,Phone Model X1 desc,1619
+demo-10498,4,Phone Protective Case x336,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X387,Phone Model X1 keyword,Phone Model X1 desc,1620
+demo-10499,4,Phone Protective Case x337,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X388,Phone Model X1 keyword,Phone Model X1 desc,1621
+demo-10500,4,Phone Protective Case x338,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X389,Phone Model X1 keyword,Phone Model X1 desc,1622
+demo-10501,4,Phone Protective Case x339,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X390,Phone Model X1 keyword,Phone Model X1 desc,1623
+demo-10502,4,Phone Protective Case x340,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X391,Phone Model X1 keyword,Phone Model X1 desc,1624
+demo-10503,4,Phone Protective Case x341,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X392,Phone Model X1 keyword,Phone Model X1 desc,1625
+demo-10504,4,Phone Protective Case x342,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X393,Phone Model X1 keyword,Phone Model X1 desc,1626
+demo-10505,4,Phone Protective Case x343,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X394,Phone Model X1 keyword,Phone Model X1 desc,1627
+demo-10506,4,Phone Protective Case x344,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X395,Phone Model X1 keyword,Phone Model X1 desc,1628
+demo-10507,4,Phone Protective Case x345,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X396,Phone Model X1 keyword,Phone Model X1 desc,1629
+demo-10508,4,Phone Protective Case x346,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X397,Phone Model X1 keyword,Phone Model X1 desc,1630
+demo-10509,4,Phone Protective Case x347,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X398,Phone Model X1 keyword,Phone Model X1 desc,1631
+demo-10510,4,Phone Protective Case x348,1,201,4,5,brand name,short description,description,0,100,5,10,0,Phone Model X399,Phone Model X1 keyword,Phone Model X1 desc,1632
